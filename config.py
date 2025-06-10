@@ -1,1 +1,1 @@
-TOKEN = "MTM4MjA3MDY1NzQ3MDQzNTQzOQ.GJRfpA.tJ7Qb34gJTQuv4zJybLpyehw-Pa6JGUIDmeOyk"
+TOKEN = token gösterilemez!
